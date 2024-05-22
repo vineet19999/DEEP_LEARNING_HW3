@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeepDataMiningLearning
 Data mining, machine learning, and deep learning sample codes for SJSU CMPE255 Data Mining ([Fall2023 SJSU Official Syllabus](https://sjsu.campusconcourse.com/view_syllabus?course_id=22871&public_mode=1)) and CMPE258 Deep Learning ([Fall2023 SJSU Official Syllabus](https://sjsu.campusconcourse.com/view_syllabus?course_id=26399&public_mode=1)).
 * Some google colab examples need SJSU google account to view)
@@ -469,3 +470,6 @@ Jupyter notebook for finetune wave2vec2: signalAI/hfwave2vec2_finetune.ipynb
 Pretrain the wave2vec2 model: signalAI/hfwave2vec2.py
 
 Perform wave2vec2 training via "hfwave2vec2.py"
+=======
+# DEEP_LEARNING_HW3
+>>>>>>> 6fbd026a2da9fb5c49dee5180fbd41ec8b447188
